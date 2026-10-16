@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 HiMitsU
 #include <SDL2/SDL.h>
 
 #include <iostream>
